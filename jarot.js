@@ -2579,7 +2579,7 @@ case 'tiktoknowm':
 			case 'tt':
 			    if (!text) return m.reply('𝘓𝘪𝘯𝘬 𝘕𝘺𝘢 𝘔𝘢𝘯𝘢??')
 				let p = await fdl.downloader.tiktok(q)
-				let nih = ` 𝘕𝘪𝘩 𝘒𝘢𝘬 𝘔𝘢𝘥𝘦 𝘉𝘺 ${author} 𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 https://www.youtube.com/@Jarotoffc`
+				let nih = ` 𝘕𝘪𝘩 𝘒𝘢𝘬 𝘔𝘢𝘥𝘦 𝘉𝘺 ${author} 𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 https://www.youtube.com/@himhiachannel`
 				let buttons = [
                     {buttonId: `tiktokmp3 ${text}`, buttonText: {displayText: '♫ Audio'}, type: 1}
                 ]
@@ -5702,7 +5702,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER JAROT`,
+"text": `MY DEVELOPER Irfaan Official`,
 }
 }}), { userJid: m.chat, quoted: doc})
 XeonBotInc.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -5723,7 +5723,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER JAROT`,
+"text": `MY DEVELOPER Irfaan Official`,
 }
 }}), { userJid: m.chat, quoted: doc})
 XeonBotInc.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -5769,10 +5769,10 @@ break
 case 'tqto': 
 throw `Thanks to
 ┏═┅〔 *SUPPORT* 〕┅═
-┃⫹⫺ 𝚇𝚎𝚘𝚗
-┃⫹⫺ 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
-┃⫹⫺ 𝙾𝚜𝚌𝚊𝚛 𝚘𝚏𝚌
-┗═┅〔 *Made By Jarot* 〕┅═`
+┃⫹⫺ Xeon
+┃⫹⫺ Irfaan Official
+┃⫹⫺ Jarot Offc
+┗═┅〔 *Made By Irfaan Official* 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5815,7 +5815,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
   mimetype: `${docs}`,
   fileLength: '99999999999999',
   pageCount: '1000000000',
-  caption: jarot,
+  caption: irfaan,
   footer: botname,
   buttons: buttons,
   mentions: ments,
@@ -5985,7 +5985,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jarot Offc',
+text: 'Made By Irfaan Official',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
